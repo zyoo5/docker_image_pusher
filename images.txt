@@ -1,3 +1,4 @@
+openclaw/openclaw:latest
 nginx
 #支持私库
 #openclaw/openclaw:latest
